@@ -7,7 +7,11 @@
 body {
     background-color: #d9dcd6
 }
-    
+
+p {
+    font-size: 16px;
+}
+
 /* Header and Navigation */
 .header-navigation {
     padding: 20px;
@@ -47,10 +51,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* Background Image */
 .background-image {
     height: 800px;
@@ -62,16 +62,6 @@ p {
 }
 
 /* Main Content */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
@@ -100,6 +90,16 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Aside Content */

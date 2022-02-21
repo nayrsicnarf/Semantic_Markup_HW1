@@ -46,7 +46,7 @@ To view the completed project, visit my [GitHub Page](https://nayrsicnarf.github
 
 ## Credits
 
-This was the first homework assignment as part of the [University of Washington Coding Boot Camp](https://bootcamp.uw.edu/coding/). Some of the information used to complete this project was provided by the instructors of this Boot Camp. But other information were obtained, but not limited to, the following resources:
+This was the first homework assignment as part of the [University of Washington Coding Boot Camp](https://bootcamp.uw.edu/coding/). Some of the information used to complete this project was provided by the instructors of this Boot Camp. But other information were obtained, but not limited to, through the following resources:
 
 - [Google](https://www.google.com/)
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/)
