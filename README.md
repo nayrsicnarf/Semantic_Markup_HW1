@@ -14,7 +14,7 @@
 
 I was given a starter code and was tasked with modifying the code to make it follow accessibilty standards. This would ensure that individuals with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards.
 
-This code was also modified to include semantic elements which helps people and the browsers distinguish the difference between the different sections of a web page. This allows the contents of the web page to be more sustainable and more useful into the future. Some examples of semantic elements are `<header>`, `<footer>`, or `<section>`.
+This code was also modified to include semantic elements which helps people and the browsers distinguish the difference between the sections of a web page. This allows the contents of the web page to be more sustainable and more useful into the future. Some examples of semantic elements are `<header>`, `<footer>`, or `<section>`.
 
 ## GitHub Repository and Page
 
